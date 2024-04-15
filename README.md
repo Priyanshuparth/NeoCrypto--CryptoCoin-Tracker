@@ -1,70 +1,60 @@
-# Getting Started with Create React App
+# NeoCrypto - Cryptocurrency Tracker
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+## Overview
 
-## Available Scripts
+NeoCrypto is a cryptocurrency tracker application built using React.js and Chakra UI. It fetches details about various cryptocurrencies using the CoinGecko API and provides graphical representations of their price trends. Users can explore different cryptocurrencies based on their ranking, view detailed information about each coin, and analyze historical price data through interactive charts.
 
-In the project directory, you can run:
+## Features
 
-### `npm start`
+- **Cryptocurrency Listing**: Fetches a list of cryptocurrencies based on their ranking from the CoinGecko API.
+- **Detailed Coin Information**: Provides detailed information about each cryptocurrency, including current price, market cap, trading volume, and more.
+- **Graphical Price Trends**: Offers graphical representations of price trends for each cryptocurrency, allowing users to analyze historical data.
+- **Currency Conversion**: Supports multiple currency options (INR, USD, EUR) for displaying cryptocurrency prices.
+- **Responsive Design**: Utilizes Chakra UI components for a responsive and visually appealing user interface across different devices.
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+## Installation
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+To run NeoCrypto locally, follow these steps:
 
-### `npm test`
+1. Clone the repository:
+    ```
+    git clone https://github.com/Priyanshuparth/NeoCrypto--CryptoCoin-Tracker.git
+    ```
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+2. Navigate to the project directory:
+    ```
+    cd NeoCrypto--CryptoCoin-Tracker
+    ```
 
-### `npm run build`
+3. Install dependencies:
+    ```
+    npm install
+    ```
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+4. Start the development server:
+    ```
+    npm start
+    ```
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+5. Open your browser and navigate to `http://localhost:3000` to view the application.
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+## Technologies Used
 
-### `npm run eject`
+- React.js
+- Chakra UI
+- CoinGecko API
+- Axios
+- Framer Motion
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+## License
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+This project is licensed under the [MIT License](LICENSE).
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+## Screenshot
 
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+![Screenshot 2024-04-13 153238](https://github.com/Priyanshuparth/NeoCrypto--CryptoCoin-Tracker/assets/73892924/6e80ed02-d9c7-4974-b672-58da2f67b403)
+![Screenshot 2024-04-13 153204](https://github.com/Priyanshuparth/NeoCrypto--CryptoCoin-Tracker/assets/73892924/54c17fcc-f4f0-4a8b-9164-edbd56cd6994)
+![Screenshot 2024-04-13 153226](https://github.com/Priyanshuparth/NeoCrypto--CryptoCoin-Tracker/assets/73892924/9ed8acc5-5c33-4a79-bc6b-43684b4d3e00)
+![Screenshot 2024-04-13 153137](https://github.com/Priyanshuparth/NeoCrypto--CryptoCoin-Tracker/assets/73892924/b12cad69-1bb5-4982-a22c-54fd4cc2b8cb)
+![Screenshot 2024-04-13 153151](https://github.com/Priyanshuparth/NeoCrypto--CryptoCoin-Tracker/assets/73892924/2121ecf6-5969-4c01-b7ca-b02f30237c9e)
