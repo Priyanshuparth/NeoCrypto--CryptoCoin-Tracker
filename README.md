@@ -1,5 +1,12 @@
 # NeoCrypto - Cryptocurrency Tracker
 
+![GitHub repo size](https://img.shields.io/github/repo-size/Priyanshuparth/NeoCrypto--CryptoCoin-Tracker)
+![GitHub contributors](https://img.shields.io/github/contributors/Priyanshuparth/NeoCrypto--CryptoCoin-Tracker)
+![GitHub stars](https://img.shields.io/github/stars/Priyanshuparth/NeoCrypto--CryptoCoin-Tracker?style=social)
+![GitHub forks](https://img.shields.io/github/forks/Priyanshuparth/NeoCrypto--CryptoCoin-Tracker?style=social)
+[![Instagram Follow](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/priyanshuparth) 
+[![LinkedIn Follow](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/priyanshuparth) 
+
 ## Overview
 
 NeoCrypto is a cryptocurrency tracker application built using React.js and Chakra UI. It fetches details about various cryptocurrencies using the CoinGecko API and provides graphical representations of their price trends. Users can explore different cryptocurrencies based on their ranking, view detailed information about each coin, and analyze historical price data through interactive charts.
